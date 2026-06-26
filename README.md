@@ -200,19 +200,6 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ToniAdreal&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniAdreal&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d&hide_border=false&count_private=true" height="165"/>
-
-</div>
-
----
-
 ## Certifications
 
 - MIT 15.S12 — Blockchain and Money (Gary Gensler)

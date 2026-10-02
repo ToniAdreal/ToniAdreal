@@ -134,9 +134,9 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 **Published Papers**
 
-- Current State and Prospects of Research on AI for Model-Based Systems Engineering
-- Reform and Practice of Material Sorting Training Based on Digital Twin Technology
-- Research on an Image Recognition Automatic Counting System Based on Improved YOLOv8
+- Reform and Practice of Material Sorting Training Course Based on Digital Twin Technology
+- Application of Big Data, Blockchain, and Internet of Things for Education Informatization (2026)
+- Current State and Prospects of Research on AI for Model-Based Systems Engineering (Systems Engineering and Electronics, 2025)
 
 **Granted Patents**
 

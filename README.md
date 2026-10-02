@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Toni%20Adreal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web3%20Product%20%7C%20AI%20Infrastructure%20%7C%20On-Chain%20Systems&descAlignY=58&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Toni%20Adreal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Systems%20%7C%20AI%20%C3%97%20Web3%20Infrastructure&descAlignY=58&descColor=aaaaaa" width="100%"/>
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ## About
 
-Web3 Senior Product Manager and Full Stack Engineer with a track record spanning verifiable AI asset protocols, on-chain trust infrastructure, and high-stakes trading products. I design systems where proof comes before liquidity — combining blockchain-native product thinking with hands-on engineering across the full stack.
+Senior Software Engineer (backend/systems), 5+ years production, with a track record spanning verifiable AI asset protocols, on-chain trust infrastructure, and high-stakes trading products. I design systems where proof comes before liquidity — combining systems-engineering rigor with hands-on full-stack delivery.
 
-Previously at **WeBank** (Federated Learning, Blockchain Risk Systems), **Sony** (AI Product Design), and **SUSTech** (Research, Digital Twin Systems). Currently building **Tokenta**, a verifiable AI asset exchange, and the **AllWeb3** trust platform.
+Previously **WeBank** (Federated Learning Intern, Blockchain Risk Systems), **Sony** (AI Product Design), and **SUSTech** (Research, Digital Twin Systems). Currently building **Tokenta**, a verifiable AI asset exchange, and the **AllWeb3** trust platform.
 
 Academic background in systems engineering, with 3 published papers and 2 granted patents in AI, digital twin, and ergonomic systems.
 
@@ -210,7 +210,7 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 <div align="center">
 
-**Open to: Web3 protocol roles, AI infrastructure PM, blockchain product leadership, DeFi/PRFi product consulting**
+**Open to: Senior Software Engineer roles — backend/systems, Web3 protocol engineering, AI infrastructure**
 
 `jiaxi0899@gmail.com` · [linkedin.com/in/toniadreal](https://www.linkedin.com/in/toniadreal)
 

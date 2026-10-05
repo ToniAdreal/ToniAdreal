@@ -22,7 +22,7 @@ Senior Software Engineer (backend/systems), 5+ years production, with a track re
 
 Previously **WeBank** (Federated Learning Intern, Blockchain Risk Systems), **Sony** (AI Product Design), and **SUSTech** (Research, Digital Twin Systems). Currently building **Tokenta**, a verifiable AI asset exchange, and the **AllWeb3** trust platform.
 
-Academic background in systems engineering, with 3 published papers and 2 granted patents in AI, digital twin, and ergonomic systems.
+Academic background in systems engineering, with 3 published papers and 2 patent applications in AI, digital twin, and ergonomic systems.
 
 ---
 
@@ -40,6 +40,16 @@ Academic background in systems engineering, with 3 published papers and 2 grante
 | **Data & Analytics** | A/B testing, cohort analysis, KPI modeling, attribution modeling, tokenomics simulations |
 
 </div>
+
+---
+
+## Open Source Engineering
+
+Small, honest, executable projects — TypeScript, zero runtime dependencies, full test suites:
+
+- **[rfc9421-signing-demo](https://github.com/ToniAdreal/rfc9421-signing-demo)** — Executable subset of RFC 9421 HTTP Message Signatures (ed25519 / hmac-sha256, RFC 9530 `Content-Digest` binding), with negative verification tests, typed error codes, real benchmarks, and an honest `SECURITY.md`.
+- **[escrow-state-machine-ts](https://github.com/ToniAdreal/escrow-state-machine-ts)** — Rule-level reconstruction of an escrow settlement flow from a portfolio case study: state machine with golden fixtures, settlement reports, fund-flow conservation checks, and invariant tests.
+- **[dataquest-task-lifecycle](https://github.com/ToniAdreal/dataquest-task-lifecycle)** — Reconstruction of a task-lifecycle state machine (13 states, 19 transitions, incl. abandonment/expiration/dispute/resubmit) from a case study: Mermaid diagram generation, SLA deadlines, and a runnable CLI demo.
 
 ---
 
@@ -134,22 +144,22 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 **Published Papers**
 
-- Reform and Practice of Material Sorting Training Course Based on Digital Twin Technology
-- Application of Big Data, Blockchain, and Internet of Things for Education Informatization (2026)
-- Current State and Prospects of Research on AI for Model-Based Systems Engineering (Systems Engineering and Electronics, 2025)
+- Reform and Practice of Material Sorting Training Course Based on Digital Twin Technology — Springer, BigIoT-EDU 2024, LNICST vol. 659 ([link](https://link.springer.com/chapter/10.1007/978-3-032-18631-7_18))
+- Current State and Prospects of Research on AI for Model-Based Systems Engineering — *Systems Engineering and Electronics*, Vol. 47 No. 12, 2025 ([link](https://www.spacejournal.cn/xtgcydzjs/article/doi/10.12305/j.issn.1001-506X.2025.12.21))
+- Research on an Image Recognition Automatic Counting System Based on Improved YOLOv8 — IEEE ICPICS 2024 ([link](https://ieeexplore.ieee.org/abstract/document/10795929))
 
-**Granted Patents**
+**Patent Applications** (not granted)
 
-- A Remote Control System of Intelligent Robotic Arm Based on Digital Twin Technology
-- Adaptive Scalp Massage Method, System and Terminal Based on Logarithmic Spiral Structural Algorithm
+- Adaptive Scalp Massage Method, System and Terminal Based on Logarithmic Spiral Structural Algorithm — CN120690375A, filed 2025-05-19, pending ([link](https://patents.google.com/patent/CN120690375A/en))
+- Remote Control System of Intelligent Robotic Arm Based on Digital Twin — CN115741682A, filed 2022-11-08, rejected 2024-12-27 ([link](https://patents.google.com/patent/CN115741682A/en))
 
 ---
 
 ## Professional Timeline
 
 ```
-2026 — Present   Tokenta                       Product Manager & Full Stack Engineer
-                 New York, United States
+2026 — Present   Tokenta (Personal Project)      Founder / Full Stack Engineer
+                 Ningbo, China
                  Verifiable AI asset exchange, escrow protocol, on-chain reputation system
 
 2025 — 2026      AllWeb3 (CyberOrigin)         Senior Product Manager
@@ -212,7 +222,7 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 **Open to: Senior Software Engineer roles — backend/systems, Web3 protocol engineering, AI infrastructure**
 
-`jiaxi0899@gmail.com` · [linkedin.com/in/toniadreal](https://www.linkedin.com/in/toniadreal)
+`toniadreal11@gmail.com` · [linkedin.com/in/toniadreal](https://www.linkedin.com/in/toniadreal)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
 

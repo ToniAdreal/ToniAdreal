@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Toni%20Adreal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Systems%20%7C%20AI%20%C3%97%20Web3%20Infrastructure&descAlignY=58&descColor=aaaaaa" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 
 </div>
 
@@ -224,6 +224,6 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 `toniadreal11@gmail.com` · [linkedin.com/in/toniadreal](https://www.linkedin.com/in/toniadreal)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 
 </div>

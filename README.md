@@ -45,8 +45,9 @@ Academic background in systems engineering, with 3 published papers and 2 patent
 
 ## Open Source Engineering
 
-Small, honest, executable projects — TypeScript, zero runtime dependencies, full test suites:
+Small, honest, executable projects — full test suites, no inflated claims:
 
+- **[campus-secondhand-marketplace](https://github.com/ToniAdreal/campus-secondhand-marketplace)** — Spring Boot 3.2 + React 18 full-stack portfolio reconstruction (monorepo): JPA/Hibernate 6, Flyway, Testcontainers MySQL 8 integration tests, Axios 401 single-flight refresh. Actively built in the open, roadmap tracked as GitHub issues.
 - **[rfc9421-signing-demo](https://github.com/ToniAdreal/rfc9421-signing-demo)** — Executable subset of RFC 9421 HTTP Message Signatures (ed25519 / hmac-sha256, RFC 9530 `Content-Digest` binding), with negative verification tests, typed error codes, real benchmarks, and an honest `SECURITY.md`.
 - **[escrow-state-machine-ts](https://github.com/ToniAdreal/escrow-state-machine-ts)** — Rule-level reconstruction of an escrow settlement flow from a portfolio case study: state machine with golden fixtures, settlement reports, fund-flow conservation checks, and invariant tests.
 - **[dataquest-task-lifecycle](https://github.com/ToniAdreal/dataquest-task-lifecycle)** — Reconstruction of a task-lifecycle state machine (13 states, 19 transitions, incl. abandonment/expiration/dispute/resubmit) from a case study: Mermaid diagram generation, SLA deadlines, and a runnable CLI demo.

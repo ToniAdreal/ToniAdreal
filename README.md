@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toniadreal-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toniadreal)
 [![GitHub](https://img.shields.io/badge/GitHub-ToniAdreal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ToniAdreal)
 [![MIT Blockchain](https://img.shields.io/badge/MIT%2015.S12-Blockchain%20%26%20Money-a31f34?style=flat-square)](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
-[![Patents](https://img.shields.io/badge/Patents-2%20Filed-334155?style=flat-square&logo=googlepatents&logoColor=white)]()
+[![Patents](https://img.shields.io/badge/Patents-2-334155?style=flat-square&logo=googlepatents&logoColor=white)]()
 [![Papers](https://img.shields.io/badge/Publications-3%20Papers-334155?style=flat-square&logo=arxiv&logoColor=white)]()
 
 </div>
@@ -20,7 +20,7 @@
 
 Senior Software Engineer (backend/systems), 5+ years production, with a track record spanning verifiable AI asset protocols, on-chain trust infrastructure, and high-stakes trading products. I design systems where proof comes before liquidity — combining systems-engineering rigor with hands-on full-stack delivery.
 
-Previously **WeBank** (Federated Learning Intern, Blockchain Risk Systems), **Sony** (AI Product Design), and **SUSTech** (Research, Digital Twin Systems). Currently building **Tokenta**, a verifiable AI asset exchange, and the **AllWeb3** trust platform.
+Previously **WeBank** (Federated Learning Intern, ML Platform & Explainable Risk Systems), **Sony** (AI Product Design), **All Way Success** (Senior PM on the AllWeb3 platform), and **SUSTech** (Research Assistant, Digital Twin Systems). Currently building **Tokenta**, a verifiable AI asset exchange.
 
 Academic background in systems engineering, with 3 published papers and 2 patent applications in AI, digital twin, and ergonomic systems.
 
@@ -145,36 +145,45 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 **Published Papers**
 
-- Reform and Practice of Material Sorting Training Course Based on Digital Twin Technology — Springer, BigIoT-EDU 2024, LNICST vol. 659 ([link](https://link.springer.com/chapter/10.1007/978-3-032-18631-7_18))
-- Current State and Prospects of Research on AI for Model-Based Systems Engineering — *Systems Engineering and Electronics*, Vol. 47 No. 12, 2025 ([link](https://www.spacejournal.cn/xtgcydzjs/article/doi/10.12305/j.issn.1001-506X.2025.12.21))
-- Research on an Image Recognition Automatic Counting System Based on Improved YOLOv8 — IEEE ICPICS 2024 ([link](https://ieeexplore.ieee.org/abstract/document/10795929))
+- Phase-Aware Mixture-of-Experts and Geometry-Guided SAM for HMER — Springer, 2026 ([link](https://link.springer.com/chapter/10.1007/978-3-032-18631-7_18#citeas))
+- Satellite Mission Operations and Application of Artificial Intelligence Large Language Model Technology Driven by Model-Based Systems Engineering (MBSE) — *Systems Engineering and Electronics*, 2025 ([link](https://www.spacejournal.cn/xtgcydzjs/article/doi/10.12305/j.issn.1001-506X.2025.12.21))
+- GNSS Denied Pose Estimation Based on Improved Point Prompt in Digital Twin Environments — IEEE, 2024 ([link](https://ieeexplore.ieee.org/abstract/document/10795929/))
 
-**Patent Applications** (not granted)
+**Patents** (as listed on LinkedIn)
 
-- Adaptive Scalp Massage Method, System and Terminal Based on Logarithmic Spiral Structural Algorithm — CN120690375A, filed 2025-05-19, pending ([link](https://patents.google.com/patent/CN120690375A/en))
-- Remote Control System of Intelligent Robotic Arm Based on Digital Twin — CN115741682A, filed 2022-11-08, rejected 2024-12-27 ([link](https://patents.google.com/patent/CN115741682A/en))
+- Multi-source heterogeneous data acquisition method, device, and storage medium for unmanned systems — CN119129697A, issued 2025-06-17
+- Unmanned-system task-planning method based on reinforcement learning, and related devices — CN118520197A, filed 2024-06-29, pending
+
+---
+
+## Education
+
+- **WorldQuant University** — MSc in Financial Engineering (in progress)
+- **The Chinese University of Hong Kong, Shenzhen** — Information Management and Business Analysis (visiting)
+- **Southern University of Science and Technology** — Research Associate, Model-Based Systems Engineering
+- **Guangdong Technology College** — B.Eng. Network Engineering, 2024
 
 ---
 
 ## Professional Timeline
 
 ```
-2026 — Present   Tokenta (Personal Project)      Founder / Full Stack Engineer
-                 Ningbo, China
-                 Verifiable AI asset exchange, escrow protocol, on-chain reputation system
+2026 — Present   Tokenta                         Product Manager / Full-Stack Engineer
+                 Remote
+                 Verifiable AI asset exchange: wallet identity, escrow/settlement/dispute workflows, state machines
 
-2025 — 2026      AllWeb3 (CyberOrigin)         Senior Product Manager
-                 Hong Kong SAR
-                 Three-portal Web3 PR platform, smart contract escrow, blockchain KOL verification
+2025 — 2026      All Way Success (AllWeb3)     Senior Product Manager, Platform & APIs
+                 Hong Kong SAR · Remote
+                 Three-portal Web3 platform, RBAC, oracle verification, smart-contract settlement
 
-2025             CyberOrigin PRFi              Product Manager
+2025             CyberOrigin                   Product Manager (Internship)
                  Shenzhen, China
-                 0-to-1 PRFi platform, 500→15K users in 2 weeks, +30% retention uplift
+                 Robotics/teleoperation data platform + wallet-connected Web3 workflows (Next.js/Three.js)
 
-2024 — 2025      WeBank                        Federated Learning Intern — Blockchain Risk
-                 Shenzhen, China
-                 FATE + PyTorch federated models; top 10 Shenzhen FinTech Competition finalist
-                 +25% prediction accuracy, -40% machine downtime, +40% credit decision efficiency
+2024             WeBank                        Federated Learning Intern — ML Platform & Explainable Risk
+                 Shenzhen, China · Remote
+                 FATE federated learning with differential privacy and homomorphic encryption;
+                 Flask monitoring prototype; Global Top 10, Shenzhen International FinTech Competition
 
 2023 — 2025      SUSTech                       Research Assistant, Systems Engineering
                  Shenzhen, China
@@ -213,9 +222,10 @@ Built as a production-grade template for global Web3 developer events. Features 
 
 ## Certifications
 
-- MIT 15.S12 — Blockchain and Money (Gary Gensler)
-- IELTS — Speaking Band 7.5
-- Business English Certificate Higher (Cambridge)
+- HCIA-AI V3.5 — Huawei (2024)
+- Business English Certificate — Cambridge Assessment English (2023)
+- IELTS — IELTS Official (2023)
+- MIT 15.S12 — Blockchain and Money (Gary Gensler, OCW)
 
 ---
 

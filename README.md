@@ -47,6 +47,7 @@ Academic background in systems engineering, with 3 published papers and 2 patent
 
 Small, honest, executable projects — full test suites, no inflated claims:
 
+- **[verifygate](https://github.com/ToniAdreal/verifygate)** — Pre-delivery verification harness for coding agents ([live demo](https://toniadreal.github.io/verifygate/)): the LLM (NVIDIA Nemotron via Nebius Token Factory) proposes patches, deterministic checks decide PASS/FAIL, and every verdict ships as a hash-chained, HMAC-signed, replayable evidence record. FAIL → repair → PASS loop, Python and JS samples, ~2.9k tests, self-verifying CI.
 - **[campus-secondhand-marketplace](https://github.com/ToniAdreal/campus-secondhand-marketplace)** — Spring Boot 3.2 + React 18 full-stack portfolio reconstruction (monorepo): JPA/Hibernate 6, Flyway, Testcontainers MySQL 8 integration tests, Axios 401 single-flight refresh. Actively built in the open, roadmap tracked as GitHub issues.
 - **[rfc9421-signing-demo](https://github.com/ToniAdreal/rfc9421-signing-demo)** — Executable subset of RFC 9421 HTTP Message Signatures (ed25519 / hmac-sha256, RFC 9530 `Content-Digest` binding), with negative verification tests, typed error codes, real benchmarks, and an honest `SECURITY.md`.
 - **[escrow-state-machine-ts](https://github.com/ToniAdreal/escrow-state-machine-ts)** — Rule-level reconstruction of an escrow settlement flow from a portfolio case study: state machine with golden fixtures, settlement reports, fund-flow conservation checks, and invariant tests.

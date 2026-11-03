@@ -64,12 +64,13 @@ Pull requests I authored that were merged into the official upstream repositorie
 - **[open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go/pull/9238)** (CNCF) — Fixed span snapshots reporting zero dropped events and links when span limits are set to 0. Issue #9237, PR #9238, approved by two maintainers and merged on 2026-10-19.
 - **[svix/openapi-codegen](https://github.com/svix/openapi-codegen/pull/193)** — Added support for the OpenAPI 3.1 forms of nullability (type arrays and anyOf/oneOf null unions), so the code generator no longer silently drops types and operations. Approved and merged by the maintainer on 2026-10-26.
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4521)** — Fixed the services list pagination linking to the wrong route. Merged on 2026-10-15.
+- **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4626)** — Send GET-only DirectAdmin API commands as GET requests (Directadmin.php plus unit test). Merged on 2026-11-04.
 
 One further contribution landed through an issue rather than my own pull request:
 
 - **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs/issues/11573)** — Reported a Helm chart string-comparison bug that broke volume expansion from 9Gi to 10Gi, together with the fix approach. The upstream fix (PR #11575) followed the same approach and was merged.
 
-Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant).
+Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625).
 
 ---
 

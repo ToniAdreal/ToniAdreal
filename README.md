@@ -78,6 +78,7 @@ Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129
 
 - **[ledgerpilot](https://github.com/ToniAdreal/ledgerpilot)** — PayPal AI Hackathon entry, submitted 2026-10-29 ([Devpost page](https://devpost.com/software/ledgerpilot-t0a2w5)); editing stays open until the 2026-11-12 deadline.
 - **[tastepilot](https://github.com/ToniAdreal/tastepilot)** — A taste-aware planning agent built on the Qloo Taste AI API (Qloo Agentic Hackathon 2026), submitted 2026-10-26 ([Devpost page](https://devpost.com/software/tastepilot)).
+- **[receipts-not-reports](https://github.com/ToniAdreal/receipts-not-reports)** — Evidence-gated oversight for multi-agent swarms that can edit or delete their own logs (Apart Research Swarm Alignment sprint, submitted 2026-11-06).
 - **[twin-teleop](https://github.com/ToniAdreal/twin-teleop)** — Robot teleoperation telemetry codec, replay utilities and a deterministic trajectory evaluation harness for digital-twin and embodied AI. Team TwinTeleop's NeurIPS AV Causal challenge registration was submitted in October 2026 and is awaiting organizer review.
 - **[verifypay-arc](https://github.com/ToniAdreal/verifypay-arc)** — Verifier-gated USDC escrow for AI-agent work on Arc, built with Arc Studio for the Arc ecosystem (DoraHacks Arc Microgrants).
 - **[verifygate](https://github.com/ToniAdreal/verifygate)** — Built for the Nebius Token Factory × NVIDIA hackathon. Details in Open Source Engineering above.

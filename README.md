@@ -65,6 +65,7 @@ Pull requests I authored that were merged into the official upstream repositorie
 - **[svix/openapi-codegen](https://github.com/svix/openapi-codegen/pull/193)** — Added support for the OpenAPI 3.1 forms of nullability (type arrays and anyOf/oneOf null unions), so the code generator no longer silently drops types and operations. Approved and merged by the maintainer on 2026-10-26.
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4521)** — Fixed the services list pagination linking to the wrong route. Merged on 2026-10-15.
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4626)** — Send GET-only DirectAdmin API commands as GET requests (Directadmin.php plus unit test). Merged on 2026-11-04.
+- **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4657)** — Fixed syncWhois() clearing the stored registration date and skipping nameserver sync when the registrar returns no valid expiry or non-string nameserver values. Approved by admdly and merged on 2026-11-07.
 
 One further contribution landed through an issue rather than my own pull request:
 

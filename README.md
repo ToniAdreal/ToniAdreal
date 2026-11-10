@@ -66,12 +66,13 @@ Pull requests I authored that were merged into the official upstream repositorie
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4521)** — Fixed the services list pagination linking to the wrong route. Merged on 2026-10-15.
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4626)** — Send GET-only DirectAdmin API commands as GET requests (Directadmin.php plus unit test). Merged on 2026-11-03.
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4657)** — Fixed syncWhois() clearing the stored registration date and skipping nameserver sync when the registrar returns no valid expiry or non-string nameserver values. Approved by admdly and merged on 2026-11-07.
+- **[go-gitea/gitea](https://github.com/go-gitea/gitea/pull/40289)** — Fixed stale Markdown preview and diff responses rendering when an earlier preview request finished after a later one (fixes #40223; approach reworked to ExclusiveFetch with the maintainer during review). Approved by wxiaoguang and silverwind, merged by wxiaoguang on 2026-11-10.
 
 One further contribution landed through an issue rather than my own pull request:
 
 - **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs/issues/11573)** — Reported a Helm chart string-comparison bug that broke volume expansion from 9Gi to 10Gi, together with the fix approach. The upstream fix (PR #11575) followed the same approach and was merged.
 
-Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625), [FOSSBilling/FOSSBilling #4665](https://github.com/FOSSBilling/FOSSBilling/pull/4665), [go-gitea/gitea #40289](https://github.com/go-gitea/gitea/pull/40289).
+Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [activemerchant/active_merchant #5605](https://github.com/activemerchant/active_merchant/pull/5605), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625), [FOSSBilling/FOSSBilling #4665](https://github.com/FOSSBilling/FOSSBilling/pull/4665).
 
 ---
 

@@ -69,12 +69,13 @@ Pull requests I authored that were merged into the official upstream repositorie
 - **[go-gitea/gitea](https://github.com/go-gitea/gitea/pull/40289)** — Fixed stale Markdown preview and diff responses rendering when an earlier preview request finished after a later one (fixes #40223; approach reworked to ExclusiveFetch with the maintainer during review). Approved by wxiaoguang and silverwind, merged by wxiaoguang on 2026-11-10.
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/pull/152843)** — Added the DeliveryGate plugin to the plugin catalog (plugin-catalog/delivery-gate.yaml, pinned to commit 9665a67). Approved by teknium1 and merged on 2026-11-11.
 - **[perses/common](https://github.com/perses/common/pull/382)** — Fixed the taskhelper cron runner busy-looping when a cron schedule has no next execution date (IsZero guard in cron_runner.go plus regression test). Merged by Nexucis on 2026-11-12.
+- **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4665)** — Added two regression tests for the sanitizer's long-input truncation (inputs over Symfony's 20,000-byte limit keep their tail content instead of rendering empty; refs #4664, functional fix already on main in #4210). Approved and merged by admdly on 2026-11-12.
 
 One further contribution landed through an issue rather than my own pull request:
 
 - **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs/issues/11573)** — Reported a Helm chart string-comparison bug that broke volume expansion from 9Gi to 10Gi, together with the fix approach. The upstream fix (PR #11575) followed the same approach and was merged.
 
-Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [activemerchant/active_merchant #5605](https://github.com/activemerchant/active_merchant/pull/5605), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625), [FOSSBilling/FOSSBilling #4665](https://github.com/FOSSBilling/FOSSBilling/pull/4665).
+Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [activemerchant/active_merchant #5605](https://github.com/activemerchant/active_merchant/pull/5605), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625).
 
 ---
 

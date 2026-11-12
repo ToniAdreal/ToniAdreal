@@ -75,13 +75,13 @@ One further contribution landed through an issue rather than my own pull request
 
 - **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs/issues/11573)** — Reported a Helm chart string-comparison bug that broke volume expansion from 9Gi to 10Gi, together with the fix approach. The upstream fix (PR #11575) followed the same approach and was merged.
 
-Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [activemerchant/active_merchant #5605](https://github.com/activemerchant/active_merchant/pull/5605), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625).
+Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [activemerchant/active_merchant #5605](https://github.com/activemerchant/active_merchant/pull/5605), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625), [moby/buildkit #7417](https://github.com/moby/buildkit/pull/7417).
 
 ---
 
 ## Hackathon Builds
 
-- **[ledgerpilot](https://github.com/ToniAdreal/ledgerpilot)** — PayPal AI Hackathon entry, submitted 2026-10-29 ([Devpost page](https://devpost.com/software/ledgerpilot-t0a2w5)); editing stays open until the 2026-11-12 deadline.
+- **[ledgerpilot](https://github.com/ToniAdreal/ledgerpilot)** — PayPal AI Hackathon entry, submitted 2026-10-29 ([Devpost page](https://devpost.com/software/ledgerpilot-t0a2w5)); submissions closed 2026-11-12.
 - **[tastepilot](https://github.com/ToniAdreal/tastepilot)** — A taste-aware planning agent built on the Qloo Taste AI API (Qloo Agentic Hackathon 2026), submitted 2026-10-26 ([Devpost page](https://devpost.com/software/tastepilot)).
 - **[receipts-not-reports](https://github.com/ToniAdreal/receipts-not-reports)** — Evidence-gated oversight for multi-agent swarms that can edit or delete their own logs (Apart Research Swarm Alignment sprint, submitted 2026-11-06).
 - **[twin-teleop](https://github.com/ToniAdreal/twin-teleop)** — Robot teleoperation telemetry codec, replay utilities and a deterministic trajectory evaluation harness for digital-twin and embodied AI. Team TwinTeleop's NeurIPS AV Causal challenge registration was submitted in October 2026 and is awaiting organizer review.

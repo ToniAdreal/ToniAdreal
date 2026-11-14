@@ -75,7 +75,9 @@ One further contribution landed through an issue rather than my own pull request
 
 - **[seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs/issues/11573)** — Reported a Helm chart string-comparison bug that broke volume expansion from 9Gi to 10Gi, together with the fix approach. The upstream fix (PR #11575) followed the same approach and was merged.
 
-Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [activemerchant/active_merchant #5605](https://github.com/activemerchant/active_merchant/pull/5605), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625), [moby/buildkit #7417](https://github.com/moby/buildkit/pull/7417).
+Open pull requests currently under review upstream: [IBM/mcp-context-forge #7129](https://github.com/IBM/mcp-context-forge/pull/7129), [gitleaks/gitleaks #2300](https://github.com/gitleaks/gitleaks/pull/2300), [activemerchant/active_merchant #5599](https://github.com/activemerchant/active_merchant/pull/5599) (Shopify's Active Merchant), [activemerchant/active_merchant #5605](https://github.com/activemerchant/active_merchant/pull/5605), [juspay/hyperswitch #15078](https://github.com/juspay/hyperswitch/pull/15078), [FOSSBilling/FOSSBilling #4625](https://github.com/FOSSBilling/FOSSBilling/pull/4625).
+
+[moby/buildkit #7417](https://github.com/moby/buildkit/pull/7417) was closed unmerged on 2026-11-13 after the maintainer merged the equivalent fix in [#7419](https://github.com/moby/buildkit/pull/7419).
 
 ---
 

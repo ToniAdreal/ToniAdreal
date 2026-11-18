@@ -71,6 +71,7 @@ Pull requests I authored that were merged into the official upstream repositorie
 - **[perses/common](https://github.com/perses/common/pull/382)** — Fixed the taskhelper cron runner busy-looping when a cron schedule has no next execution date (IsZero guard in cron_runner.go plus regression test). Merged by Nexucis on 2026-11-12.
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4665)** — Added two regression tests for the sanitizer's long-input truncation (inputs over Symfony's 20,000-byte limit keep their tail content instead of rendering empty; refs #4664, functional fix already on main in #4210). Approved and merged by admdly on 2026-11-12.
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling/pull/4625)** — Fixed getCurrencyLayerRates calling the retired currencylayer endpoint (api.apilayer.com/currency_data/live): moved the request to api.currencylayer.com/live per the official API spec, with no change to response parsing, plus regression tests for the currency API. Fixes #4624. Merged by admdly on 2026-11-16.
+- **[Primly/hermes-agent](https://github.com/Primly/hermes-agent/pull/1)** — Required a newline boundary for the buffered-steer suffix match, so a mid-line suffix no longer silently retires a distinct live steer (fixes the reported repro in NousResearch/hermes-agent#156975). Merged by Primly on 2026-11-18.
 
 One further contribution landed through an issue rather than my own pull request:
 
